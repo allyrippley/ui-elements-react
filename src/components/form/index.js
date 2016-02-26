@@ -12,7 +12,7 @@ class Form extends Component {
         <Input customStyle="error" /> Error
         <Input customStyle="strongGlow" /> strongGlow
         <Input customStyle="flatLiner" /> Flat
-        <Input customStyle="focusGlow" /> Basic
+        <Input customStyle="flatLiner" /> Flat
       </div>
     )
   }
